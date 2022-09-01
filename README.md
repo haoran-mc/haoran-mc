@@ -14,7 +14,7 @@
 
 ----------
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=haoran-mc&show_icons=true&count_private=true&theme=buefy&hide_border=true&hide=issues,contribs" alt="haoran github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haoran-mc&layout=compact&theme=buefy&hide_border=true&hide=html,vue,javascript" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=haoran-mc&show_icons=true&count_private=true&theme=buefy&hide_border=true&hide=issues,contribs" alt="haoran github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haoran-mc&layout=compact&theme=buefy&hide_border=true&hide=html,vue,javascript,css" /> |
 | ------------- | ------------- |
 
 
