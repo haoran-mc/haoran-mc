@@ -4,7 +4,7 @@
 
 ----------
 
-- 🔭 I’m currently working on **Emacs**.
+- 🔭 I’m currently working on **NeoVim**.
 
 - 🌱 I’m currently learning **Golang**.
 
@@ -19,9 +19,44 @@
 
 
 <!--
-[![](https://visitor-badge.laobi.icu/badge?page_id=haoran-mc.haoran-mc)](https://visitor-badge.laobi.icu/badge?page_id=haoran-mc.haoran-mc)
-[![Mail Badge](https://img.shields.io/badge/-haoran.mc@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:haoran.mc@gmail.com)](mailto:haoran.mc@gmail.com)
-[![](https://img.shields.io/github/stars/haoran-mc?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=haoran-mc&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
-[![](https://img.shields.io/github/followers/haoran-mc?color=27da6b&logo=Handshake)](https://github.com/haoran-mc?tab=followers)
-[![](https://img.shields.io/badge/Awesome-MyStarList-c780fa?logo=Awesome-Lists)](https://github.com/haoran-mc/awesome-stars#readme)
+Some of my repositories:
+
+- [dotfiles](https://github.com/haoran-mc/dotfiles)
+- [.emacs.d](https://github.com/haoran-mc/.emacs.d)
+- [algorithm-template](https://github.com/haoran-mc/algorithm-template)
+- [go_design_pattern](https://github.com/haoran-mc/go_design_pattern)
+- [wx_scan_login](https://github.com/haoran-mc/wx_scan_login)
+- [go_pkgs](https://github.com/haoran-mc/go_pkgs)
+- [TCP_IP_Network](https://github.com/haoran-mc/TCP_IP_Network)
+- [oh-my-css](https://github.com/haoran-mc/oh-my-css)
+- [painting-theme](https://github.com/haoran-mc/painting-theme)
+- [.spacemacs.d](https://github.com/haoran-mc/.spacemacs.d)
+-->
+
+<!--
+public:
+- awesome-stars     每天更新我的stars
+- .emacs.d.mini     windows上的emacs配置
+- gosync_workshop   go sync学习仓库
+- gcbbs             go社区
+- haoran-mc         当前项目
+- go-im             想写一个im项目
+- canteen-ordering  web项目，餐厅点餐
+- simplewebtheme    github page blog
+- haoran-mc.github.io
+- metadata-information-filling-system-be
+- metadata-information-filling-system-fe
+- todo-fe
+- todo-be
+- vue-e-commerce-management
+
+private:
+- Code
+- note
+- daily_push_at_zz
+
+fork:
+- ku-bbs
+- bigdata-learning
+- Mathjax
 -->
