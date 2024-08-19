@@ -4,13 +4,11 @@
 
 ----------
 
-- 🔭 I’m currently working on **NeoVim** and **Emacs**.
+- 🔭 I’m currently working on **Emacs**.
 
-- 🌱 I’m currently learning **Golang**, **Shell Script**, **Network**.
+- 🌱 I’m currently learning **Network**.
 
-- 💬 Ask me about anything [here](https://github.com/haoran-mc/haoran-mc/issues).
-
-- ⚡ Fun fact: I ❤ code.
+- 💬 Fun fact: I ❤ code.
 
 ----------
 
